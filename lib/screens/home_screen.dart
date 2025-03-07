@@ -1,8 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:pilem/models/movie.dart';
 import 'package:pilem/screens/detail_screen.dart';
-import 'package:pilem/services/api_services.dart';
-
+import 'package:pilem/servics/api.service.dart';
 import '../servics/api.service.dart';
 
 class HomeScreen extends StatefulWidget {
